@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\User\source\repos\lab_1_nm\lab_1_nm\rungeKutt.h(23): warning C4715: 'RungeKutt::testF': not all control paths return a value
+C:\Users\User\source\repos\lab_1_nm\lab_1_nm\rungeKutt.h(82): warning C4715: 'RungeKutt::correctHop': not all control paths return a value
+  lab_1_nm.vcxproj -> C:\Users\User\source\repos\lab_1_nm\x64\Debug\lab_1_nm.exe
